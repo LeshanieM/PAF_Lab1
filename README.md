@@ -104,6 +104,7 @@ Your colleague does the same on your repo.
 git checkout main
 git pull origin main
 git checkout -b feature/yourname/user-authentication
+git switch -c feature/yourname/user-authentication
 ```
 
 #### 2. Make several changes
