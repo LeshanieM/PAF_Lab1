@@ -169,7 +169,7 @@ Check branches
 ```
 git branch        # local branches
 git branch -r     # remote branches
-git branch -a     # all branches
+git branch -a     # all branches | git branch --all
 ```
 
 Switch between branches
